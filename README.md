@@ -22,9 +22,9 @@ New in version 5:
  - Improved and expanded section on standard errors;
  - Improved section of fixed effects estimation;
  - Improved section on matching and added entropy balancing;
- - Added section on robust regression estimators in Chapter \ref{ch_data};
- - Added section on difference-in-differences estimators in Chapter \ref{ch_data};
- - Added section on creating and formatting graphs in Chapter \ref{ch_data};
- - Added a separate chapter on simulations and programming in Chapter \ref{sim};
- - Added Appendix \ref{wrds} on the use of Stata for downloading of data from WRDS;
- - Improved Appendix \ref{icc} on implied cost of capital estimation;
+ - Added section on robust regression estimators in Chapter 4;
+ - Added section on difference-in-differences estimators in Chapter 4;
+ - Added section on creating and formatting graphs in Chapter 4;
+ - Added a separate chapter on simulations and programming in Chapter 5;
+ - Added Appendix on the use of Stata for downloading of data from WRDS;
+ - Improved Appendix on implied cost of capital estimation;
