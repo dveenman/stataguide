@@ -2,7 +2,7 @@
 
 **Comments and suggestions are welcome**
 
-This repo contains my Stata guide (a pdf book) and the code examples presented in Chapters 4-5 and the Appendices. For the examples in Chapter 4, the `Data` folder contains several datasets that can be used to replicate the examples. 
+This repo contains my Stata guide ([a pdf book](https://github.com/dveenman/stataguide/blob/b5c2990c6affc4e74c9b414cb1874b1f9219f158/Stata%20Guide%20-%20David%20Veenman%20v5.0%20(Sept%202023).pdf)) and the code examples presented in Chapters 4-5 and the Appendices. For the examples in Chapter 4, the `Data` folder contains several datasets that can be used to replicate the examples. 
 
 The objective of this guide is to assist BSc/MSc students, PhD students, and junior researchers in using Stata for empirical archival research. Stata is a powerful program that can be used to analyze many different research questions in the fields of accounting, finance, economics, and beyond. While many statistical packages exist, a major advantage of Stata is that it allows you to carefully manage your data and research process, compute key variables needed in empirical research (e.g., fitted or residual values from a prediction model), and easily merge large sets of data (e.g., combining financial statement data from Compustat with stock market data from CRSP and analyst forecast data from IBES). The purpose of this guide is to give students a head start in using Stata in empirical accounting and finance research settings.
 
